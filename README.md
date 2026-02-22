@@ -21,13 +21,6 @@ using QLoRA on Google Colab Free Tier (T4 GPU).
 - **Hardware:** Google Colab Free Tier (T4 GPU, 15.6GB VRAM)
 - **Framework:** Unsloth + TRL SFTTrainer
 
-## 🚀 Quick Start
-
-Open directly in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/YOUR_USERNAME/qwen25-function-calling-qlora/blob/main/qwen25_function_calling_qlora.ipynb)
-
 ## 📁 Structure
 ```
 ├── qwen25_function_calling_qlora.ipynb  # Main notebook
